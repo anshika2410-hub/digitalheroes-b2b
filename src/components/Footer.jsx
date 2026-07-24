@@ -88,7 +88,7 @@ export default function Footer() {
 
 
 <a
-  href="https://github.com/"
+  href="https://github.com/anshika2410-hub/digitalheroes-b2b"
   target="_blank"
   rel="noopener noreferrer"
   className="flex items-center gap-3 hover:text-blue-400 transition cursor-pointer"
