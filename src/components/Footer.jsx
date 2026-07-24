@@ -113,7 +113,17 @@ export default function Footer() {
         >
           © 2026 DigitalHeroes CRM. All Rights Reserved.
         </div>
-
+     <p className="text-sm text-gray-400">
+      Built for{" "}
+      <a
+        href="https://digitalheroesco.com"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-400 hover:underline"
+      >
+        Digital Heroes Training Task
+      </a>
+    </p>
       </div>
 
     </footer>
