@@ -19,10 +19,6 @@ A modern and responsive CRM Landing Page built with React, Vite, and Tailwind CS
 
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-green?style=for-the-badge)
 
-[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Website-success?style=for-the-badge)](YOUR_VERCEL_LINK)
-
-[![💻 GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](YOUR_GITHUB_LINK)
-
 ---
 
 ## 🌐 Live Project
