@@ -189,6 +189,20 @@ The project was tested using **Google Lighthouse** to evaluate performance, acce
 
 ---
 
+## 📨 EmailJS Integration
+
+The contact form is fully functional and integrated with **EmailJS** for real-time email delivery.
+
+- ✅ Client-side Form Validation
+- ✅ Real-time Email Delivery
+- ✅ No Backend Required
+
+| Contact Form | Email Received |
+|--------------|----------------|
+| ![Contact Form](./screenshots/contact-form.png) | ![Email Received](./screenshots/email-received.png) |
+
+---
+
 ## 🎯 Assignment Objectives
 
 - Build a responsive CRM landing page
@@ -209,7 +223,22 @@ Built for the **Digital Heroes Frontend Training Task**.
 🔗 https://digitalheroesco.com
 
 ---
+## 📬 Connect With Me
+
+If you have any questions, feedback, or suggestions regarding this project, feel free to reach out.
+
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshikaagrawal2410@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contact-anshikaagrawal)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshika2410-hub)
+
+---
 
 ## 📄 License
 
 This project is intended for educational purposes as part of the **Digital Heroes Frontend Training Assignment**.
+
+---
+
+## ⭐ Support the Project
+
+If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub. Your support is greatly appreciated!
